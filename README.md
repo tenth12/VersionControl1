@@ -1,5 +1,5 @@
 # Quasar App (versioncontrol)
-https://tenth12.github.io/VersionControl_2/
+https://tenth12.github.io/VersionControl1/
 
 A Quasar Project
 
